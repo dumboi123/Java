@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/ThanhVienDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/MonAnDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/CTNhaCungCapLoaiMonDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/LoaiMonDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/LoaiMonAnBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/NhanVienDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/ThanhVienBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/JForm/AdminForm.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DTO/CTNhaCungCapLoaiMonDTO.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/TaiKhoanBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/HoaDonDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DTO/LoaiMonDTO.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/DonDatHangBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/HoaDonBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DataProvider/DataProvider.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/EXCEL/XuatExcel.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/TaiKhoanDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/CTNhaCungCapLoaiMonBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/JForm/LoginForm.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/NhaCungCapDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/ChuongTrinhKMDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/MonAnBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/DonDatHangDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/BLL/NhanVienBLL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DTO/TaiKhoanDTO.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/DAL/PhieuGiamGiaDAL.java</file>
+            <file>file:/C:/Users/Admin/Downloads/Project/src/JForm/ManageForm.java</file>
+        </group>
+    </open-files>
+</project-private>
